@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ʀɪsʜɪᴋᴀ-sʜᴀʀᴍᴀ 」──
+    ──「 𝔫𝔬𝔟𝔦-𝔰𝔥𝔦𝔷𝔲𝔨𝔞 」──
 </h2>
 <p align="center">
   <img src="https://graph.org/file/ca038adfb02d1d119fc09.jpg">
