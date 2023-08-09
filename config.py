@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 29450710))
-API_HASH = getenv("API_HASH", "f4cc901231b49cf4387320be94f60d9c")
+API_ID = int(getenv("API_ID", 26004438))
+API_HASH = getenv("API_HASH", "3e2c25e18eaf263bdcdf69c0c0e62d59")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 1777270311))
+OWNER_ID = int(getenv("OWNER_ID", 6481280351))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "HORRIBLE_STUDY")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "RDX_VEMPIRE")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "@rajdausaardxop")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "yaaro_ki_mehfil_group")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "official_mr_king")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@Santani_hu_bro")
 
 # Random Start Images
 IMG = [
@@ -60,9 +60,9 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
-    "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
-    "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ",
+    "CAACAgQAAx0CdYpwNgACAeVk00Kzw1F4oaLYxetaeqDiRIiKOAAC9QwAAkEt6FPGWMG4OTPWPzAE",
+    "CAACAgQAAx0CdYpwNgACAelk00MOKFfiiF8AAbyNoXQaYIpFz8cAAgwQAAK6gCFSQDwQZs_6W3EwBA",
+    "CAACAgQAAx0CdYpwNgACAe1k00Nzfs6EisPYu-QNqc5p_153bAAC9A0AAsCT-FBrV-bbHU_-GzAE",
 ]
 
 
