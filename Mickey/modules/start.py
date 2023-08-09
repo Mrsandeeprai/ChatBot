@@ -1,5 +1,5 @@
-# Don't remove This Line From Here. Tg: @rajdausaardxop | @J4jaaanu
-# Github :- NobitaRdX | XHackerRdX
+# Don't remove This Line From Here. Tg: @Santani_hu_bro | @Mr_selfish_person
+# Github :- Devilking12 | Mrsandeeprai
 
 import asyncio
 import random
