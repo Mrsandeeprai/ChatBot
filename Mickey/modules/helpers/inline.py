@@ -7,7 +7,7 @@ from Mickey import MickeyBot
 DEV_OP = [
     [
         InlineKeyboardButton(text="✯ 𝐎ᴡɴᴇʀ ✯", user_id="1777270311"),
-        InlineKeyboardButton(text="✯ 𝐒ᴜᴘᴘᴏʀᴛ ✯", url=f"https://t.me/HORRIBLE_STUDY"),
+        InlineKeyboardButton(text="✯ 𝐒ᴜᴘᴘᴏʀᴛ ✯", url=f"https://t.me/+xWcg-WBN1oBjMjk1"),
     ],
     [
         InlineKeyboardButton(
