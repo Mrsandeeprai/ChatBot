@@ -37,7 +37,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h2 align="center"> ──「 ᴅᴇᴍᴏ ʀᴏʙᴏᴛ 」──</h2>
 <i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
-<p align="center"><a href="https://t.me/mickeymouse_robot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
+<p align="center"><a href="https://t.me/Nobi_x_Shizukabot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
@@ -50,10 +50,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
 
-- [xʜᴀᴄᴋᴇʀʀᴅx](https://github.com/XHackerRdX)
-- [ʀᴀᴊᴅᴀᴜsᴀᴀʀᴅx](https://github.com/rajdausaardx)
-- [ɴᴏʙɪᴛᴀʀᴅx](https://t.me/NobitaRdX)
-- [ʜʏᴘᴇʀ ᴋɪɴɢ](https://t.me/HYPER_AD13)
+- [Devil](https://github.com/Devilking12)
+- [sandeep](https://github.com/Mrsandeeprai)
+- [lovely bot](https://t.me/Nobi_x_Shizukabot)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
