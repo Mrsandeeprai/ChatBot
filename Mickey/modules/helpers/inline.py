@@ -19,7 +19,7 @@ DEV_OP = [
         InlineKeyboardButton(text="✯ 𝐇ᴇʟᴘ & 𝐂ᴍᴅs ✯", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="✯ 𝐒ᴏᴜʀᴄᴇ ✯", url="https://graph.org/file/2f2325c7982e5d3409416.mp4"),
+        InlineKeyboardButton(text="✯ 𝐒ᴏᴜʀᴄᴇ ✯", url="https://graph.org/file/57ef19d4c10b830cafb0f.jpg"),
         InlineKeyboardButton(text="✯ 𝐀ʙᴏᴜᴛ ✯", callback_data="ABOUT"),
     ],
 ]
@@ -116,15 +116,15 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="✯ 𝐒ᴜᴘᴘᴏʀᴛ ✯", url=f"https://t.me/HORRIBLE_STUDY"),
+        InlineKeyboardButton(text="✯ 𝐒ᴜᴘᴘᴏʀᴛ ✯", url=f"https://t.me/yaaro_ki_mehfil_group"),
         InlineKeyboardButton(text="✯ 𝐇ᴇʟᴘ ✯", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="✯ 𝐎ᴡɴᴇʀ ✯", user_id="1777270311"),
-        InlineKeyboardButton(text="✯ 𝐒ᴏᴜʀᴄᴇ ✯", url="https://t.me/FriendsVempire"),
+        InlineKeyboardButton(text="✯ 𝐎ᴡɴᴇʀ ✯", user_id="6481280351"),
+        InlineKeyboardButton(text="✯ 𝐒ᴏᴜʀᴄᴇ ✯", url="https://t.me/Santani_hu_bro"),
     ],
     [
-        InlineKeyboardButton(text="✯ 𝐔ᴘᴅᴀᴛᴇs ✯", url="https://t.me/RDX_SERVER"),
+        InlineKeyboardButton(text="✯ 𝐔ᴘᴅᴀᴛᴇs ✯", url="https://t.me/official_mr_king"),
         InlineKeyboardButton(text="✯ 𝐁ᴀᴄᴋ ✯", callback_data="BACK"),
     ],
 ]
