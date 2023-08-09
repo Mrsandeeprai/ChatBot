@@ -2,20 +2,20 @@
     ──「 ʀɪsʜɪᴋᴀ-sʜᴀʀᴍᴀ 」──
 </h2>
 <p align="center">
-  <img src="https://graph.org/file/6179fb7c1ecb642b80637.jpg">
+  <img src="https://graph.org/file/ca038adfb02d1d119fc09.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NobitaRdX/ChatBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Mrsandeeprai/ChatBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/Devarora-0981/Mickey/blob/Dev/sample.env)
+- Get your [Necessary Variables](https://github.com/Mrsandeeprai/chatbot/blob/Dev/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
@@ -41,11 +41,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<p align="center"><a href="https://t.me/we_rfriends"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/DEVBOTZ"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/yaaro_ki_mehfil_group"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/official_mr_king"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Devarora-0981/Mickey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
+<a href="https://github.com/Mrsandeeprai/chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
 
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
