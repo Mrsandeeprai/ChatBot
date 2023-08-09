@@ -1,7 +1,7 @@
 {
-  "name": "ʀɪsʜɪᴋᴀ",
-  "description": "A telegram bot",
-  "logo": "https://graph.org/file/f9619ffdbc6fcd5ad9d9b.jpg",
+  "name": "𝔰𝔥𝔦𝔷𝔲𝔨𝔞",
+  "description": "A telegram chatbot",
+  "logo": "https://graph.org/file/f2cddeeba9571988c22c9.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/NobitaRdX/ChatBot",
+  "repository": "https://github.com/Mrsandeeprai/ChatBot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
